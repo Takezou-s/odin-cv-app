@@ -1,0 +1,21 @@
+.main{
+  display: flex;
+  gap: 32px;
+  align-items: flex-start;
+  margin: auto;
+  width: max-content;
+}
+
+.edit{
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+    flex-direction: column;
+    align-items: unset;
+    margin: 0;
+  }
+}

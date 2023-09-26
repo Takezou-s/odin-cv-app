@@ -1,0 +1,16 @@
+.input {
+  appearance: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  background-color: rgb(240, 240, 240);
+  border: none;
+  font-family: inherit;
+  font-size: 1rem;
+  outline: none;
+  border: 2px solid transparent;
+}
+
+.input:focus,
+.input:focus-visible {
+  border-color: rgb(68, 151, 151);
+}

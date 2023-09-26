@@ -1,0 +1,840 @@
+.text-apple {
+  color: #76cd26 !important;
+}
+.text-aspargus {
+  color: #77ab56 !important;
+}
+.text-apricot {
+  color: #ffb16d !important;
+}
+.text-aubergine {
+  color: #3d0734 !important;
+}
+.text-avocado {
+  color: #87a922 !important;
+}
+.text-banana {
+  color: #fafe4b !important;
+}
+.text-butter {
+  color: #ffff81 !important;
+}
+.text-blueberry {
+  color: #464196 !important;
+}
+.text-carrot {
+  color: #e67e22 !important;
+}
+.text-cherry {
+  color: #cf0234 !important;
+}
+.text-chocolate {
+  color: #411900 !important;
+}
+.text-cranberry {
+  color: #9e003a !important;
+}
+.text-coffee {
+  color: #a6814c !important;
+}
+.text-egg {
+  color: #fffcc4 !important;
+}
+.text-grape {
+  color: #6c3461 !important;
+}
+.text-kiwi {
+  color: #8ee53f !important;
+}
+.text-lemon {
+  color: #fdff52 !important;
+}
+.text-lime {
+  color: #bffe28 !important;
+}
+.text-mango {
+  color: #ffa62b !important;
+}
+.text-mushroom {
+  color: #ba9e88 !important;
+}
+.text-mustard {
+  color: #ceb301 !important;
+}
+.text-mint {
+  color: #c0fa8b !important;
+}
+.text-olive {
+  color: #6e750e !important;
+}
+.text-orange {
+  color: #f97306 !important;
+}
+.text-pea {
+  color: #a4bf20 !important;
+}
+.text-peach {
+  color: #ffb07c !important;
+}
+.text-pear {
+  color: #cbf85f !important;
+}
+.text-pistachio {
+  color: #c0fa8b !important;
+}
+.text-plum {
+  color: #3f012c !important;
+}
+.text-pomegranate {
+  color: #c0392b !important;
+}
+.text-pumpkin {
+  color: #d35400 !important;
+}
+.text-raspberry {
+  color: #b00149 !important;
+}
+.text-saffron {
+  color: #feb209 !important;
+}
+.text-salmon {
+  color: #ff796c !important;
+}
+.text-spearmint {
+  color: #1ef876 !important;
+}
+.text-squash {
+  color: #f2ab15 !important;
+}
+.text-strawberry {
+  color: #fb2943 !important;
+}
+.text-tomato {
+  color: #ec2d01 !important;
+}
+.text-wheat {
+  color: #fbdd7e !important;
+}
+.text-wine {
+  color: #80013f !important;
+}
+.bg-apple {
+  background-color: #76cd26 !important;
+}
+.bg-aspargus {
+  background-color: #77ab56 !important;
+}
+.bg-apricot {
+  background-color: #ffb16d !important;
+}
+.bg-aubergine {
+  background-color: #3d0734 !important;
+}
+.bg-avocado {
+  background-color: #87a922 !important;
+}
+.bg-banana {
+  background-color: #fafe4b !important;
+}
+.bg-butter {
+  background-color: #ffff81 !important;
+}
+.bg-blueberry {
+  background-color: #464196 !important;
+}
+.bg-carrot {
+  background-color: #e67e22 !important;
+}
+.bg-cherry {
+  background-color: #cf0234 !important;
+}
+.bg-chocolate {
+  background-color: #411900 !important;
+}
+.bg-cranberry {
+  background-color: #9e003a !important;
+}
+.bg-coffee {
+  background-color: #a6814c !important;
+}
+.bg-egg {
+  background-color: #fffcc4 !important;
+}
+.bg-grape {
+  background-color: #6c3461 !important;
+}
+.bg-kiwi {
+  background-color: #8ee53f !important;
+}
+.bg-lemon {
+  background-color: #fdff52 !important;
+}
+.bg-lime {
+  background-color: #bffe28 !important;
+}
+.bg-mango {
+  background-color: #ffa62b !important;
+}
+.bg-mushroom {
+  background-color: #ba9e88 !important;
+}
+.bg-mustard {
+  background-color: #ceb301 !important;
+}
+.bg-mint {
+  background-color: #c0fa8b !important;
+}
+.bg-olive {
+  background-color: #6e750e !important;
+}
+.bg-orange {
+  background-color: #f97306 !important;
+}
+.bg-pea {
+  background-color: #a4bf20 !important;
+}
+.bg-peach {
+  background-color: #ffb07c !important;
+}
+.bg-pear {
+  background-color: #cbf85f !important;
+}
+.bg-pistachio {
+  background-color: #c0fa8b !important;
+}
+.bg-plum {
+  background-color: #3f012c !important;
+}
+.bg-pomegranate {
+  background-color: #c0392b !important;
+}
+.bg-pumpkin {
+  background-color: #d35400 !important;
+}
+.bg-raspberry {
+  background-color: #b00149 !important;
+}
+.bg-saffron {
+  background-color: #feb209 !important;
+}
+.bg-salmon {
+  background-color: #ff796c !important;
+}
+.bg-spearmint {
+  background-color: #1ef876 !important;
+}
+.bg-squash {
+  background-color: #f2ab15 !important;
+}
+.bg-strawberry {
+  background-color: #fb2943 !important;
+}
+.bg-tomato {
+  background-color: #ec2d01 !important;
+}
+.bg-wheat {
+  background-color: #fbdd7e !important;
+}
+.bg-wine {
+  background-color: #80013f !important;
+}
+.border-apple {
+  border-color: #76cd26 !important;
+}
+.border-aspargus {
+  border-color: #77ab56 !important;
+}
+.border-apricot {
+  border-color: #ffb16d !important;
+}
+.border-aubergine {
+  border-color: #3d0734 !important;
+}
+.border-avocado {
+  border-color: #87a922 !important;
+}
+.border-banana {
+  border-color: #fafe4b !important;
+}
+.border-butter {
+  border-color: #ffff81 !important;
+}
+.border-blueberry {
+  border-color: #464196 !important;
+}
+.border-carrot {
+  border-color: #e67e22 !important;
+}
+.border-cherry {
+  border-color: #cf0234 !important;
+}
+.border-chocolate {
+  border-color: #411900 !important;
+}
+.border-cranberry {
+  border-color: #9e003a !important;
+}
+.border-coffee {
+  border-color: #a6814c !important;
+}
+.border-egg {
+  border-color: #fffcc4 !important;
+}
+.border-grape {
+  border-color: #6c3461 !important;
+}
+.border-kiwi {
+  border-color: #8ee53f !important;
+}
+.border-lemon {
+  border-color: #fdff52 !important;
+}
+.border-lime {
+  border-color: #bffe28 !important;
+}
+.border-mango {
+  border-color: #ffa62b !important;
+}
+.border-mushroom {
+  border-color: #ba9e88 !important;
+}
+.border-mustard {
+  border-color: #ceb301 !important;
+}
+.border-mint {
+  border-color: #c0fa8b !important;
+}
+.border-olive {
+  border-color: #6e750e !important;
+}
+.border-orange {
+  border-color: #f97306 !important;
+}
+.border-pea {
+  border-color: #a4bf20 !important;
+}
+.border-peach {
+  border-color: #ffb07c !important;
+}
+.border-pear {
+  border-color: #cbf85f !important;
+}
+.border-pistachio {
+  border-color: #c0fa8b !important;
+}
+.border-plum {
+  border-color: #3f012c !important;
+}
+.border-pomegranate {
+  border-color: #c0392b !important;
+}
+.border-pumpkin {
+  border-color: #d35400 !important;
+}
+.border-raspberry {
+  border-color: #b00149 !important;
+}
+.border-saffron {
+  border-color: #feb209 !important;
+}
+.border-salmon {
+  border-color: #ff796c !important;
+}
+.border-spearmint {
+  border-color: #1ef876 !important;
+}
+.border-squash {
+  border-color: #f2ab15 !important;
+}
+.border-strawberry {
+  border-color: #fb2943 !important;
+}
+.border-tomato {
+  border-color: #ec2d01 !important;
+}
+.border-wheat {
+  border-color: #fbdd7e !important;
+}
+.border-wine {
+  border-color: #80013f !important;
+}
+.border-top-apple {
+  border-top-color: #76cd26 !important;
+}
+.border-top-aspargus {
+  border-top-color: #77ab56 !important;
+}
+.border-top-apricot {
+  border-top-color: #ffb16d !important;
+}
+.border-top-aubergine {
+  border-top-color: #3d0734 !important;
+}
+.border-top-avocado {
+  border-top-color: #87a922 !important;
+}
+.border-top-banana {
+  border-top-color: #fafe4b !important;
+}
+.border-top-butter {
+  border-top-color: #ffff81 !important;
+}
+.border-top-blueberry {
+  border-top-color: #464196 !important;
+}
+.border-top-carrot {
+  border-top-color: #e67e22 !important;
+}
+.border-top-cherry {
+  border-top-color: #cf0234 !important;
+}
+.border-top-chocolate {
+  border-top-color: #411900 !important;
+}
+.border-top-cranberry {
+  border-top-color: #9e003a !important;
+}
+.border-top-coffee {
+  border-top-color: #a6814c !important;
+}
+.border-top-egg {
+  border-top-color: #fffcc4 !important;
+}
+.border-top-grape {
+  border-top-color: #6c3461 !important;
+}
+.border-top-kiwi {
+  border-top-color: #8ee53f !important;
+}
+.border-top-lemon {
+  border-top-color: #fdff52 !important;
+}
+.border-top-lime {
+  border-top-color: #bffe28 !important;
+}
+.border-top-mango {
+  border-top-color: #ffa62b !important;
+}
+.border-top-mushroom {
+  border-top-color: #ba9e88 !important;
+}
+.border-top-mustard {
+  border-top-color: #ceb301 !important;
+}
+.border-top-mint {
+  border-top-color: #c0fa8b !important;
+}
+.border-top-olive {
+  border-top-color: #6e750e !important;
+}
+.border-top-orange {
+  border-top-color: #f97306 !important;
+}
+.border-top-pea {
+  border-top-color: #a4bf20 !important;
+}
+.border-top-peach {
+  border-top-color: #ffb07c !important;
+}
+.border-top-pear {
+  border-top-color: #cbf85f !important;
+}
+.border-top-pistachio {
+  border-top-color: #c0fa8b !important;
+}
+.border-top-plum {
+  border-top-color: #3f012c !important;
+}
+.border-top-pomegranate {
+  border-top-color: #c0392b !important;
+}
+.border-top-pumpkin {
+  border-top-color: #d35400 !important;
+}
+.border-top-raspberry {
+  border-top-color: #b00149 !important;
+}
+.border-top-saffron {
+  border-top-color: #feb209 !important;
+}
+.border-top-salmon {
+  border-top-color: #ff796c !important;
+}
+.border-top-spearmint {
+  border-top-color: #1ef876 !important;
+}
+.border-top-squash {
+  border-top-color: #f2ab15 !important;
+}
+.border-top-strawberry {
+  border-top-color: #fb2943 !important;
+}
+.border-top-tomato {
+  border-top-color: #ec2d01 !important;
+}
+.border-top-wheat {
+  border-top-color: #fbdd7e !important;
+}
+.border-top-wine {
+  border-top-color: #80013f !important;
+}
+.border-bottom-apple {
+  border-bottom-color: #76cd26 !important;
+}
+.border-bottom-aspargus {
+  border-bottom-color: #77ab56 !important;
+}
+.border-bottom-apricot {
+  border-bottom-color: #ffb16d !important;
+}
+.border-bottom-aubergine {
+  border-bottom-color: #3d0734 !important;
+}
+.border-bottom-avocado {
+  border-bottom-color: #87a922 !important;
+}
+.border-bottom-banana {
+  border-bottom-color: #fafe4b !important;
+}
+.border-bottom-butter {
+  border-bottom-color: #ffff81 !important;
+}
+.border-bottom-blueberry {
+  border-bottom-color: #464196 !important;
+}
+.border-bottom-carrot {
+  border-bottom-color: #e67e22 !important;
+}
+.border-bottom-cherry {
+  border-bottom-color: #cf0234 !important;
+}
+.border-bottom-chocolate {
+  border-bottom-color: #411900 !important;
+}
+.border-bottom-cranberry {
+  border-bottom-color: #9e003a !important;
+}
+.border-bottom-coffee {
+  border-bottom-color: #a6814c !important;
+}
+.border-bottom-egg {
+  border-bottom-color: #fffcc4 !important;
+}
+.border-bottom-grape {
+  border-bottom-color: #6c3461 !important;
+}
+.border-bottom-kiwi {
+  border-bottom-color: #8ee53f !important;
+}
+.border-bottom-lemon {
+  border-bottom-color: #fdff52 !important;
+}
+.border-bottom-lime {
+  border-bottom-color: #bffe28 !important;
+}
+.border-bottom-mango {
+  border-bottom-color: #ffa62b !important;
+}
+.border-bottom-mushroom {
+  border-bottom-color: #ba9e88 !important;
+}
+.border-bottom-mustard {
+  border-bottom-color: #ceb301 !important;
+}
+.border-bottom-mint {
+  border-bottom-color: #c0fa8b !important;
+}
+.border-bottom-olive {
+  border-bottom-color: #6e750e !important;
+}
+.border-bottom-orange {
+  border-bottom-color: #f97306 !important;
+}
+.border-bottom-pea {
+  border-bottom-color: #a4bf20 !important;
+}
+.border-bottom-peach {
+  border-bottom-color: #ffb07c !important;
+}
+.border-bottom-pear {
+  border-bottom-color: #cbf85f !important;
+}
+.border-bottom-pistachio {
+  border-bottom-color: #c0fa8b !important;
+}
+.border-bottom-plum {
+  border-bottom-color: #3f012c !important;
+}
+.border-bottom-pomegranate {
+  border-bottom-color: #c0392b !important;
+}
+.border-bottom-pumpkin {
+  border-bottom-color: #d35400 !important;
+}
+.border-bottom-raspberry {
+  border-bottom-color: #b00149 !important;
+}
+.border-bottom-saffron {
+  border-bottom-color: #feb209 !important;
+}
+.border-bottom-salmon {
+  border-bottom-color: #ff796c !important;
+}
+.border-bottom-spearmint {
+  border-bottom-color: #1ef876 !important;
+}
+.border-bottom-squash {
+  border-bottom-color: #f2ab15 !important;
+}
+.border-bottom-strawberry {
+  border-bottom-color: #fb2943 !important;
+}
+.border-bottom-tomato {
+  border-bottom-color: #ec2d01 !important;
+}
+.border-bottom-wheat {
+  border-bottom-color: #fbdd7e !important;
+}
+.border-bottom-wine {
+  border-bottom-color: #80013f !important;
+}
+.border-left-apple {
+  border-left-color: #76cd26 !important;
+}
+.border-left-aspargus {
+  border-left-color: #77ab56 !important;
+}
+.border-left-apricot {
+  border-left-color: #ffb16d !important;
+}
+.border-left-aubergine {
+  border-left-color: #3d0734 !important;
+}
+.border-left-avocado {
+  border-left-color: #87a922 !important;
+}
+.border-left-banana {
+  border-left-color: #fafe4b !important;
+}
+.border-left-butter {
+  border-left-color: #ffff81 !important;
+}
+.border-left-blueberry {
+  border-left-color: #464196 !important;
+}
+.border-left-carrot {
+  border-left-color: #e67e22 !important;
+}
+.border-left-cherry {
+  border-left-color: #cf0234 !important;
+}
+.border-left-chocolate {
+  border-left-color: #411900 !important;
+}
+.border-left-cranberry {
+  border-left-color: #9e003a !important;
+}
+.border-left-coffee {
+  border-left-color: #a6814c !important;
+}
+.border-left-egg {
+  border-left-color: #fffcc4 !important;
+}
+.border-left-grape {
+  border-left-color: #6c3461 !important;
+}
+.border-left-kiwi {
+  border-left-color: #8ee53f !important;
+}
+.border-left-lemon {
+  border-left-color: #fdff52 !important;
+}
+.border-left-lime {
+  border-left-color: #bffe28 !important;
+}
+.border-left-mango {
+  border-left-color: #ffa62b !important;
+}
+.border-left-mushroom {
+  border-left-color: #ba9e88 !important;
+}
+.border-left-mustard {
+  border-left-color: #ceb301 !important;
+}
+.border-left-mint {
+  border-left-color: #c0fa8b !important;
+}
+.border-left-olive {
+  border-left-color: #6e750e !important;
+}
+.border-left-orange {
+  border-left-color: #f97306 !important;
+}
+.border-left-pea {
+  border-left-color: #a4bf20 !important;
+}
+.border-left-peach {
+  border-left-color: #ffb07c !important;
+}
+.border-left-pear {
+  border-left-color: #cbf85f !important;
+}
+.border-left-pistachio {
+  border-left-color: #c0fa8b !important;
+}
+.border-left-plum {
+  border-left-color: #3f012c !important;
+}
+.border-left-pomegranate {
+  border-left-color: #c0392b !important;
+}
+.border-left-pumpkin {
+  border-left-color: #d35400 !important;
+}
+.border-left-raspberry {
+  border-left-color: #b00149 !important;
+}
+.border-left-saffron {
+  border-left-color: #feb209 !important;
+}
+.border-left-salmon {
+  border-left-color: #ff796c !important;
+}
+.border-left-spearmint {
+  border-left-color: #1ef876 !important;
+}
+.border-left-squash {
+  border-left-color: #f2ab15 !important;
+}
+.border-left-strawberry {
+  border-left-color: #fb2943 !important;
+}
+.border-left-tomato {
+  border-left-color: #ec2d01 !important;
+}
+.border-left-wheat {
+  border-left-color: #fbdd7e !important;
+}
+.border-left-wine {
+  border-left-color: #80013f !important;
+}
+.border-right-apple {
+  border-right-color: #76cd26 !important;
+}
+.border-right-aspargus {
+  border-right-color: #77ab56 !important;
+}
+.border-right-apricot {
+  border-right-color: #ffb16d !important;
+}
+.border-right-aubergine {
+  border-right-color: #3d0734 !important;
+}
+.border-right-avocado {
+  border-right-color: #87a922 !important;
+}
+.border-right-banana {
+  border-right-color: #fafe4b !important;
+}
+.border-right-butter {
+  border-right-color: #ffff81 !important;
+}
+.border-right-blueberry {
+  border-right-color: #464196 !important;
+}
+.border-right-carrot {
+  border-right-color: #e67e22 !important;
+}
+.border-right-cherry {
+  border-right-color: #cf0234 !important;
+}
+.border-right-chocolate {
+  border-right-color: #411900 !important;
+}
+.border-right-cranberry {
+  border-right-color: #9e003a !important;
+}
+.border-right-coffee {
+  border-right-color: #a6814c !important;
+}
+.border-right-egg {
+  border-right-color: #fffcc4 !important;
+}
+.border-right-grape {
+  border-right-color: #6c3461 !important;
+}
+.border-right-kiwi {
+  border-right-color: #8ee53f !important;
+}
+.border-right-lemon {
+  border-right-color: #fdff52 !important;
+}
+.border-right-lime {
+  border-right-color: #bffe28 !important;
+}
+.border-right-mango {
+  border-right-color: #ffa62b !important;
+}
+.border-right-mushroom {
+  border-right-color: #ba9e88 !important;
+}
+.border-right-mustard {
+  border-right-color: #ceb301 !important;
+}
+.border-right-mint {
+  border-right-color: #c0fa8b !important;
+}
+.border-right-olive {
+  border-right-color: #6e750e !important;
+}
+.border-right-orange {
+  border-right-color: #f97306 !important;
+}
+.border-right-pea {
+  border-right-color: #a4bf20 !important;
+}
+.border-right-peach {
+  border-right-color: #ffb07c !important;
+}
+.border-right-pear {
+  border-right-color: #cbf85f !important;
+}
+.border-right-pistachio {
+  border-right-color: #c0fa8b !important;
+}
+.border-right-plum {
+  border-right-color: #3f012c !important;
+}
+.border-right-pomegranate {
+  border-right-color: #c0392b !important;
+}
+.border-right-pumpkin {
+  border-right-color: #d35400 !important;
+}
+.border-right-raspberry {
+  border-right-color: #b00149 !important;
+}
+.border-right-saffron {
+  border-right-color: #feb209 !important;
+}
+.border-right-salmon {
+  border-right-color: #ff796c !important;
+}
+.border-right-spearmint {
+  border-right-color: #1ef876 !important;
+}
+.border-right-squash {
+  border-right-color: #f2ab15 !important;
+}
+.border-right-strawberry {
+  border-right-color: #fb2943 !important;
+}
+.border-right-tomato {
+  border-right-color: #ec2d01 !important;
+}
+.border-right-wheat {
+  border-right-color: #fbdd7e !important;
+}
+.border-right-wine {
+  border-right-color: #80013f !important;
+}

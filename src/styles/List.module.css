@@ -1,0 +1,18 @@
+.item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-radius: 3px;
+  padding: 8px;
+  box-shadow: 1px 1px 3px 0px #000;
+  margin: 16px 0;
+}
+
+.item > span {
+  font-size: 1.15rem;
+  flex: 1 0 auto;
+}
+
+.button {
+  margin: auto;
+}

@@ -1,0 +1,44 @@
+.button {
+  appearance: none;
+  border: none;
+  padding: 12px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 1.2rem;
+  background-color: transparent;
+}
+
+.button.scale {
+  transition: transform 0.2s ease;
+}
+
+.button.scale:active {
+  transform: scale(0.9);
+}
+
+.collapse-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.collapse-button > .icon {
+  transition: transform 0.4s ease;
+}
+
+.collapse-button.collapse > .icon {
+  transform: rotate(-180deg);
+}
+
+.edit-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.button.active > *{
+  backdrop-filter: hue-rotate(45deg);
+}

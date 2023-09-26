@@ -1,0 +1,84 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.customize-buttons {
+  display: flex;
+  gap: 24px;
+}
+
+.customize-button {
+  padding: 0px;
+}
+
+.customize-button > *.active {
+  box-shadow: rgba(251, 41, 67, 0.75) 0px 0px 10px 2px;
+}
+
+.customize-button > div {
+  padding: 0;
+  width: 65px;
+  height: 65px;
+  border: 1px solid;
+  border-radius: 4px;
+  display: grid;
+  justify-items: stretch;
+  align-items: stretch;
+}
+
+.customize-button > div > *:first-child {
+  background-color: black;
+}
+
+.customize-button.horizontal > div {
+  grid-template-columns: 1fr 1fr;
+}
+
+.customize-button.horizontal.right > div > *:first-child {
+  order: 2;
+}
+
+.color-fields {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 12px;
+  width: max-content;
+}
+
+.color-field {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.color-field > *:first-child {
+  flex: 1 0 auto;
+}
+
+.input {
+  appearance: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  padding: 0;
+  border: none;
+  display: inline-block;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.input > input {
+  appearance: none;
+  width: 50px;
+  height: 50px;
+  padding: 0;
+  border: none;
+  position: relative;
+  left: -5px;
+  top: -5px;
+  cursor: pointer;
+}

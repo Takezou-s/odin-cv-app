@@ -1,0 +1,35 @@
+.date-info-pair {
+  display: flex;
+  gap: 20px;
+}
+
+.date {
+  flex: 0 0 20%;
+  font-weight: 300;
+  text-align: center;
+  overflow-wrap: anywhere;
+}
+
+.date > *:last-child {
+  margin-top: 8px;
+  font-weight: 500;
+}
+
+.info {
+  font-weight: 300;
+  overflow-wrap: anywhere;
+  text-align: justify;
+}
+
+.info > * {
+  margin-bottom: 4px;
+}
+
+.info > *:first-child {
+  font-weight: 500;
+}
+
+.description {
+  margin: 8px 0;
+  font-weight: 400;
+}

@@ -1,0 +1,30 @@
+.name {
+  text-align: center;
+  overflow-wrap: anywhere;
+  margin: 48px;
+}
+
+.name.horizontal {
+  text-align: left;
+  margin: 48px 16px;
+}
+
+.info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 16px;
+  row-gap: 8px;
+  margin: 32px 0;
+}
+
+.info.horizontal {
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.info > div {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
